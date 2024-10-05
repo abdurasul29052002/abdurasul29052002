@@ -26,6 +26,6 @@
 <div>
   <a href="https://github.com/abdurasul29052002">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurasul29052002&bg_color=151515&border_color=ffffff&text_color=bdc3c7&title_color=3178c6&layout=compact&langs_count=10"/>
-    <img src="https://github-readme-stats.vercel.app/api/index/?username=abdurasul29052002"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/index/?username=abdurasul29052002"/>
   </a>
 </div>
