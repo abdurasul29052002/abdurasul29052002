@@ -21,3 +21,13 @@
 - 🌐 &nbsp; Spring | Spring boot | Spring security | Vaadin | PostgreSQL | Java FX 
 - ⚙️  &nbsp; GIT | GIT HUB
 - 🔧 &nbsp; IntelIj IDEA | Fleet
+
+<div>
+  📊 Profile stats
+  
+  <a href="https://github.com/abdurasul29052002">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurasul29052002&bg_color=151515&border_color=ffffff&text_color=bdc3c7&title_color=3178c6&layout=compact&langs_count=10"/>
+</a>
+
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</div>
